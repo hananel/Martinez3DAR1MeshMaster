@@ -8,4 +8,4 @@ blockMesh
 snappyHexMesh -overwrite
 checkMesh
 pyFoamCaseReport.py --case-size .
-paraview --state="prismView.pvsm"
+#paraview --state="prismView.pvsm"
